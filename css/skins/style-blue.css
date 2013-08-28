@@ -1,0 +1,60 @@
+/* Blue Skin */
+h1 { color: #407599; }
+h2 { color: #407599; }
+h3 { color: #407599; }
+h4 { color: #407599; }
+h5 { color: #407599; }
+h6 { color: #407599; }
+#theme-menu-main > li > a, #theme-footer-tabs  li > a, #theme-menu-main > li .desc { color: #ffffff; }
+#theme-menu-main  li:hover a, #theme-menu-main > li.current-menu-item:hover > a { color: #ffffff; }
+#theme-menu-main > li.current-menu-item > li > a, #theme-menu-main > li ul > li > a { color: #ffffff; }
+#theme-menu-main > li ul > li:hover > a { color: #fffcff; }
+#top-slidepanel .textwidget h3   { color: #000000; }
+#top-slidepanel .textwidget  text , #top-slidepanel .textwidget  p , #top-slidepanel .textwidget  span  { color: #000000; }
+.theme-breadcrumbs, .theme-breadcrumbs a { color: #424242; }
+.theme-breadcrumbs a:hover { color: #407599; }
+.theme-sidebar { color: #424242; }
+.theme-sidebar .widget-title { color: #424242; }
+.theme-sidebar .widget-content, .theme-sidebar a { color: #a8a8a8; }
+#theme-footer .tabcontent , #theme-footer .tabcontent h3, #theme-footer .tabcontent > a { color: #ffffff; }
+#theme-footer-menu > ul > li > a { color: #407599; }
+#theme-footer-menu > ul > li > a:hover { color: #ffffff; }
+#theme-footer-tabs > ul > li > a { color: #ffffff; }
+#theme-footer-tabs > ul > li > a:hover, #theme-footer-tabs > ul > li.active  a  { color: #407599; }
+.theme-content p, #theme-footer .tabcontent .theme-sidebar { color: #545454; }
+a, #theme-footer .tabcontent .theme-sidebar a { color: #407599; }
+a:hover, #theme-copyright a:hover, #theme-footer-a .theme-footer-column a:hover, ul.shortcode-toggle > li:hover > div.header > span.title, #theme-footer .tabcontent .theme-sidebar a:hover, #theme-footer .tabcontent a:hover { color: #b5b5b5; }
+.theme-button { color: #ffffff; }
+.theme-button:hover { color: #ffffff; }
+#theme-copyright a { color: #407599; }
+#types, #types a, .da-thumbs li a div span { color: #ffffff; }
+#types a:hover { color: #407599; }
+#theme-menu-main  li:hover, .theme-search-box:hover .theme-search-icon { background-color: #446c8a; }
+#theme-navigation-row { background-color: #407599; }
+#theme-menu-main > li:hover ul > li { background-color: #446c8a; }
+#theme-menu-main > li:hover ul > li:hover, #theme-menu-main li.current-menu-item li.current-menu-item { background-color: #335870; }
+ { background-color: #407599; }
+.theme-content #categories { background-color: #407599; }
+.theme-sidebar, .theme-excerpts .item, #post-display-option { background-color: #; }
+.theme-content-container .theme-sidebar h3, ul.theme-pagination > li.active, .theme-search-form input[type="submit"], #searchform input[type="submit"], #wp-calendar caption { background-color: #; }
+.theme-content-container .theme-sidebar .widget { background-color: #; }
+#top-slidepanel #panel { background-color: #ffffff; }
+#top-widget, #theme-footer { background-color: #407599; }
+#theme-content-row { background-color: #ffffff; }
+.theme-button, input[type="submit"].theme-button, .widget_price_filter .ui-slider .ui-slider-handle, .theme-sidebar .ui-slider .ui-slider-handle { background-color: #407599; }
+.theme-button:hover, input[type="submit"].theme-button:hover, .widget_price_filter .ui-slider .ui-slider-handle, .theme-sidebar .ui-slider .ui-slider-handle { background-color: #8cadd1; }
+#theme-custom-row { background-color: #fafafa; }
+#theme-menu-main  li:hover, .theme-search-box:hover .theme-search-icon { background-color: #446c8a; }
+ { border-color: #ffffff; }
+a > img:hover, img.avatar:hover, ul.products li:hover > a > img, ul.products li:hover img.wp-post-image, ul.product_list_widget li:hover img, .td_postWidget_posts .thumbs:hover, .shortcode-tdacs .overview li img:hover, .related-posts .post:hover, .td_adwidget_thumb img:hover, #commentform input:hover, #commentform textarea:hover { border-color: #b5b5b5; }
+ul.theme-pagination { border-color: #; }
+.da-thumbs li a div span, .portfolio_block { border-color: #407599; }
+.td_postWidget_posts div.item { border-color: #407599; }
+ul.shortcode-gallery > li:hover { outline-color: #b5b5b5; }
+#top-slidepanel #panel, .slidepanel-arrow { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=95)"; filter: alpha(opacity= 95); -moz-opacity:0.95; -khtml-opacity: 0.95; opacity: 0.95; }
+.portfolio-container li a div.item-title, ul.shortcode-gallery li.view:hover .mask, ul.shortcode-gallery li.view.hover .mask { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)"; filter: alpha(opacity= 85); -moz-opacity:0.85; -khtml-opacity: 0.85; opacity: 0.85; }
+#portfolio-container li a div span { border-top : 10px solid #407599; }
+#theme-menu-main > li:hover { border-top : 2px solid #ffffff; }
+#portfolio-container li a div span { border-bottom : 3px solid #407599; }
+ul.shortcode-gallery > li.view h2 { border-bottom : 4px solid #407599; }
+/* Blue Skin */
